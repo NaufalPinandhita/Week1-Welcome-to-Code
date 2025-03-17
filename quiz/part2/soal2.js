@@ -19,4 +19,5 @@ console.log('Second Word: ' + secondWord);
 console.log('Third Word: ' + thirdWord);
 console.log('Fourth Word: ' + fourthWord);
 console.log('Fifth Word: ' + fifthWord);
+
 //lanjutkan dengan struktur log diatas
